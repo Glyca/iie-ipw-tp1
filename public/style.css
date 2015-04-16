@@ -1,0 +1,27 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	font-family: "Open Sans", sans-serif;
+	margin: 10px;
+	background: url("http://www.yee7.com/wallpaper/beautiful/beautiful-tropical-beach-scenes-wallpapers-best-hd-landscape-wallpaper-beach-wall-paper-landscapebeautiful-tropical-flowers-beautiful-nature-fish-paradise-islands-scenes-wallpapers-best-hd-landscape.jpg") center no-repeat fixed;
+}
+
+.container-fluid {
+	background: #FFF;
+	opacity: 0.95;
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+h2 {
+	font-style: italic;
+}
+
+section {
+	margin: 10;
+}
+
+section span.date {
+	float: right;
+}
